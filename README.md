@@ -21,8 +21,8 @@ Download and Run the App on Android Studio 3.6.3
 * Provider Path
 
 ### Dialogs
-Custom Progress Dialog
-Custom Pialog
+* Custom Progress Dialog
+* Custom Pialog
 
 ### layout
 * Liner layout 
