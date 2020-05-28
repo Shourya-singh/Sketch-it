@@ -26,7 +26,7 @@ Download and Run the App on Android Studio 3.6.3
 * Custom Brush Dialog
 
 ### layout
-* Liner layout 
+* Linear layout 
 * Frame Layout
 
 ## Best practices
