@@ -1,5 +1,6 @@
 # Sketch-it 
 A Creative Native-Android-App for Drawing and Sketching on a Canvas.
+
 This project is Completed during 30 days of Kotlin.
 
 ## Sketching App 🎨🖌
@@ -22,7 +23,7 @@ Download and Run the App on Android Studio 3.6.3
 
 ### Dialogs
 * Custom Progress Dialog
-* Custom Pialog
+* Custom Brush Dialog
 
 ### layout
 * Liner layout 
