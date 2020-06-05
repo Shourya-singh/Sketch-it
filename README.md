@@ -1,7 +1,7 @@
 # Sketch-it :art:
 > ***A Creative Native-Android-App for Drawing and Sketching on a Canvas.***
 
-> ***This project is Completed during 30 days of Kotlin.*** %23ca5c9d
+> ***This project is Completed during 30 days of Kotlin.*** 
 
 ## Sketching App 🎨🖌
 
