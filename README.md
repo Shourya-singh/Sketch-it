@@ -8,7 +8,7 @@
 
 > ***A Creative Native-Android-App for Drawing and Sketching on a Canvas.***
 ---
-# Sketching App 🎨🖌
+## Sketching App 🎨🖌
 <p>
 <img width="320" height="700" alt="scoobydoo" src="https://user-images.githubusercontent.com/62837736/83914266-8c581980-a78e-11ea-89d4-e7c1c94d5bd6.jpg" style="float:left; padding-right:10px" >
 <img width="320" height="700" alt="scoobydoo" src="https://user-images.githubusercontent.com/62837736/83915176-5d42a780-a790-11ea-9d23-14739deecc40.jpg" style="float:right; padding-right:10px">
