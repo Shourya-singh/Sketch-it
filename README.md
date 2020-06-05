@@ -6,7 +6,7 @@
 ## Sketching App 🎨🖌
 
 <p align="center">
-<img width="380" height="800" alt="ScobbyDo" src="https://user-images.githubusercontent.com/62837736/83130202-95484b80-a0fb-11ea-88a9-6ada6979bcc3.png">
+<img width="320" height="700" alt="scoobydoo" src="https://user-images.githubusercontent.com/62837736/83914266-8c581980-a78e-11ea-89d4-e7c1c94d5bd6.jpg">
 </p>                                                                                                                               
 
 ## Getting Started :new:
