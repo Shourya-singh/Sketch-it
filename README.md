@@ -1,9 +1,9 @@
-# Sketch-it :art:
+### **GuideLines**
 > ***A Creative Native-Android-App for Drawing and Sketching on a Canvas.***
 
 > ***This project is Completed during 30 days of Kotlin.*** 
 
-## Sketching App 🎨🖌
+# Sketch-it 🎨🖌
 
 ![](https://img.shields.io/badge/BUILT%20WITH-KOTLIN-%23FE5722?style=plastic&logo=kotlin&logocolor=#03A9F3)&nbsp; &nbsp;[![GitHub stars](https://img.shields.io/github/stars/Shourya-singh/Sketch-it?color=%2303A9F3&logo=github&style=plastic)](https://github.com/Shourya-singh/Sketch-it/stargazers)&nbsp; &nbsp;[![GitHub license](https://img.shields.io/github/license/Shourya-singh/Sketch-it?style=plastic)](https://github.com/Shourya-singh/Sketch-it/blob/master/LICENCE)&nbsp;&nbsp; 
 ![](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-success)
