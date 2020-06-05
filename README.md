@@ -1,10 +1,10 @@
 # Sketch-it :art:
 > ***A Creative Native-Android-App for Drawing and Sketching on a Canvas.***
 
-> ***This project is Completed during 30 days of Kotlin.***
+> ***This project is Completed during 30 days of Kotlin.*** %23ca5c9d
 
 ## Sketching App 🎨🖌
-
+![](https://img.shields.io/badge/BUILT%20WITH-KOTLIN-%23FE5722?style=plastic&logo=kotlin&logocolor=#03A9F3)
 <p>
 <img width="320" height="700" alt="scoobydoo" src="https://user-images.githubusercontent.com/62837736/83914266-8c581980-a78e-11ea-89d4-e7c1c94d5bd6.jpg" style="float:left; padding-right:10px" >
 <img width="320" height="700" alt="scoobydoo" src="https://user-images.githubusercontent.com/62837736/83915176-5d42a780-a790-11ea-9d23-14739deecc40.jpg" style="float:right; padding-right:10px">
