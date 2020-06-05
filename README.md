@@ -40,3 +40,8 @@ Google Developers Codelabs provide a guided, tutorial, hands-on coding experienc
 
 * Android Developer Fundamentals
 * Android Developer Codelabs
+
+## Licence and Copyright 
+© Shourya Singh 
+
+Licenced under the [MIT Licence](LICENCE).
